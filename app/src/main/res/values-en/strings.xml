@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Team</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="confirm">Confirm</string>
+    <string name="developed">Developed by Renan</string>
+    <string name="select">Select a team</string>
+</resources>

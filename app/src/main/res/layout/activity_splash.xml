@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/padding_default"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/colorAccent"
+    tools:context="com.gmail.reebrando.myteam.SplashActivity">
+
+<ImageView
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:id="@+id/splash"
+    android:background="@drawable/air" />
+
+</LinearLayout>

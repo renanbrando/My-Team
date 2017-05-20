@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="teams_array">
+        <item>@string/select</item>
+        <item>@string/cavaliers</item>
+        <item>@string/hawks</item>
+        <item>@string/lakers</item>
+        <item>@string/nuggets</item>
+        <item>@string/suns</item>
+        <item>@string/thunder</item>
+        <item>@string/wizards</item>
+    </string-array>
+</resources>

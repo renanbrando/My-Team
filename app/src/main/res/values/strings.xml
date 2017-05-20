@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Nome</string>
+    <string name="age">Idade</string>
+    <string name="app_name">Meu Time</string>
+    <string name="developed">Desenvolvido por Renan</string>
+    <string name="confirm">Confirmar</string>
+    <string name="select">Selecione um time</string>
+    <string name="lakers" translatable="false">Lakers</string>
+    <string name="cavaliers" translatable="false">Cavaliers</string>
+    <string name="hawks" translatable="false">Hawks</string>
+    <string name="nuggets" translatable="false">Nuggets</string>
+    <string name="suns" translatable="false">Suns</string>
+    <string name="thunder" translatable="false">Thunder</string>
+    <string name="wizards" translatable="false">Wizards</string>
+    <string name="help">Preencha todos os campos!</string>
+    <string name="error">Ops, você não torce pra nenhum time, mas escolhemos um pra você.</string>
+    <string name="hello">Hello, %1s parabéns torcer pelo time:</string>
+</resources>
