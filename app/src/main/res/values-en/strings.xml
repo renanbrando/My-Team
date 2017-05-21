@@ -6,4 +6,7 @@
     <string name="confirm">Confirm</string>
     <string name="developed">Developed by Renan</string>
     <string name="select">Select a team</string>
+    <string name="hello">Hello, %1s congrats for cheering up for:</string>
+    <string name="help">Fill in all the fields!</string>
+    <string name="error" translatable="false">Ops, seems like we had to choose a team for you.</string>
 </resources>

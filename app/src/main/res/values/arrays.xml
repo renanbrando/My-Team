@@ -2,12 +2,30 @@
 <resources>
     <string-array name="teams_array">
         <item>@string/select</item>
+        <item>@string/sixers</item>
+        <item>@string/blazers</item>
+        <item>@string/bobcats</item>
+        <item>@string/bulls</item>
         <item>@string/cavaliers</item>
+        <item>@string/celtics</item>
+        <item>@string/clippers</item>
+        <item>@string/grizzlies</item>
         <item>@string/hawks</item>
+        <item>@string/heat</item>
+        <item>@string/hornets</item>
+        <item>@string/jazz</item>
+        <item>@string/kings</item>
         <item>@string/lakers</item>
+        <item>@string/magic</item>
+        <item>@string/marvericks</item>
+        <item>@string/nets</item>
         <item>@string/nuggets</item>
+        <item>@string/pistons</item>
+        <item>@string/rockets</item>
         <item>@string/suns</item>
         <item>@string/thunder</item>
+        <item>@string/timberwolves</item>
+        <item>@string/warriors</item>
         <item>@string/wizards</item>
     </string-array>
 </resources>

@@ -13,7 +13,25 @@
     <string name="suns" translatable="false">Suns</string>
     <string name="thunder" translatable="false">Thunder</string>
     <string name="wizards" translatable="false">Wizards</string>
+    <string name="sixers" translatable="false">76ers</string>
+    <string name="blazers" translatable="false">Blazers</string>
+    <string name="bobcats" translatable="false">Bobcats</string>
+    <string name="bulls" translatable="false">Bulls</string>
+    <string name="celtics" translatable="false">Celtics</string>
+    <string name="clippers" translatable="false">Clippers</string>
+    <string name="grizzlies" translatable="false">Grizzlies</string>
+    <string name="heat" translatable="false">Heat</string>
+    <string name="hornets" translatable="false">Hornets</string>
+    <string name="jazz" translatable="false">Jazz</string>
+    <string name="kings" translatable="false">Kings</string>
+    <string name="magic" translatable="false">Magic</string>
+    <string name="marvericks" translatable="false">Marvericks</string>
+    <string name="nets" translatable="false">Nets</string>
+    <string name="pistons" translatable="false">Pistons</string>
+    <string name="rockets" translatable="false">Rockets</string>
+    <string name="timberwolves" translatable="false">Timberwolves</string>
+    <string name="warriors" translatable="false">Warriors</string>
     <string name="help">Preencha todos os campos!</string>
     <string name="error">Ops, você não torce pra nenhum time, mas escolhemos um pra você.</string>
-    <string name="hello">Hello, %1s parabéns torcer pelo time:</string>
+    <string name="hello">Olá, %1s parabéns torcer pelo time:</string>
 </resources>
